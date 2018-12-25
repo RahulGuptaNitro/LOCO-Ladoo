@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_back"
+        android:showAsAction="always"
+        android:icon="@drawable/back"
+        android:title="Backward" />
+
+    <item
+        android:id="@+id/menu_refresh"
+        android:showAsAction="always"
+        android:icon="@drawable/refresh"
+        android:title="Refresh" />
+
+</menu>
